@@ -1,0 +1,13 @@
+测试用例                                      测试结果
+aHVjdGZ7dGhpc19mbGFnIX0=    base64:huctf{this_flag!}
+NB2WG5DGPN2GQ2LTL5TGYYLHEF6Q====    base32:huctf{this_flag!}
+yw9AAg8gEDEABpRo2GqtBit    base58:huctf{this_flag!}
+.... ..- -.-. - ..-. - .... .. ... ..-. .-.. .- --.     摩斯密码:HUCTFTHISFLAG
+104 117 99 116 102 123 116 104 105 115 95 102 108 97 103 33 125        ascii转字符串:huctf{this_flag!}
+uhpgs{guvf_synt!}                 rot13:huctf{this_flag!}
+ryadjydlgccdveem                解码结束，再无符合密码！
+aHVjdGZ7dGhpc19mbGFnfQ                error:Incorrect padding
+由中人工大王                        当铺密码:123456
+AABBBBABAAAAABABAABBAABABBAABBAABBBABAAABAABAAABABABABBAAAAAAABBA   培根密码:HUCTFTHISFLAG
+68756374667B746869735F666C6167217D           base16:huctf{this_flag!}
+U8(IF.TZi#c.$,Km*UoZf        base91:huctf{this_flag!}
